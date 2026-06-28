@@ -42,35 +42,29 @@ Today I was introduced to Python and learned its basic syntax. I practiced using
 
 
 ---
-
 ## Day 2
 
 **Date:** 23 June 2026
 
 **Subject:** Python Programming
 
-**Topics Covered**
+### Topics Covered
 
-- Arithmetic Operators
-- Assignment Operators
-- Comparison Operators
-- Logical Operators
-- Identity Operators
-- Membership Operators
-- Bitwise Operators
+* Arithmetic Operators
+* Assignment Operators
+* Comparison Operators
+* Logical Operators
+* Identity Operators
+* Membership Operators
+* Bitwise Operators
 
-**What I Learned**
+### What I Learned
 
-Today I learned different types of operators available in Python and understood where each operator is used. I practiced solving simple expressions using arithmetic, comparison, logical, and membership operators.
+In today's class, I learned different types of operators available in Python and understood where each operator is used. I practiced solving simple expressions using arithmetic, comparison, logical, identity, membership, and bitwise operators.
 
-**Programs Practiced**
+### Practice File
 
-- Arithmetic operators
-- Comparison operators
-- Logical operators
-- Identity operators
-- Membership operators
-- Bitwise operators
+* operators.py
 
 ---
 
