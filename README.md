@@ -88,12 +88,30 @@ Today I learned about Python collection data types. I practiced creating and usi
 ### Practice File
 
 - collections.py
-
 ## Day 4
 
-(To be updated)
+**Date:** 25 June 2026
 
----
+**Subject:** Python Programming
+
+### Topics Covered
+
+* User-Defined Functions
+* Classes and Objects
+* `__init__()` Method
+* Single Inheritance
+* Multilevel Inheritance
+* `super()` Function
+
+### What I Learned
+
+Today's session introduced me to user-defined functions and the basics of object-oriented programming. I practiced creating functions with parameters, default arguments, `*args`, and `**kwargs`. I also learned how classes and objects work, how the `__init__()` method initializes object data, and how inheritance allows one class to reuse the features of another.
+
+### Practice Files
+
+* functions.py
+* oops.py
+
 
 ## Day 5
 
