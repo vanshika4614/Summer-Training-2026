@@ -60,3 +60,77 @@ student_info(
     Course="Data Analysis",
     College="GNDEC"
 )
+
+
+
+print("\nFunctions with Lists\n")
+
+
+# Passing a list to a function
+
+def show_fruits(fruits):
+    for fruit in fruits:
+        print(fruit)
+
+fruit_list = ["Apple", "Banana", "Mango"]
+
+show_fruits(fruit_list)
+
+print()
+
+
+# Returning a new list
+
+def square_numbers(numbers):
+
+    squared = []
+
+    for num in numbers:
+        squared.append(num * num)
+
+    return squared
+
+
+numbers = [1, 2, 3, 4, 5]
+
+print(square_numbers(numbers))
+
+print()
+
+
+# Built-in functions with lists
+
+marks = [82, 65, 91, 78, 88]
+
+print("Maximum:", max(marks))
+print("Minimum:", min(marks))
+print("Sorted:", sorted(marks))
+
+print()
+
+
+# Remove duplicate values
+
+def unique_items(items):
+    return list(set(items))
+
+
+values = [1, 2, 2, 3, 4, 4, 5]
+
+print(unique_items(values))
+
+print()
+
+
+# List Comprehension
+
+numbers = [1, 2, 3, 4, 5]
+
+square = [num ** 2 for num in numbers]
+
+print(square)
+
+
+even = [num for num in numbers if num % 2 == 0]
+
+print(even)

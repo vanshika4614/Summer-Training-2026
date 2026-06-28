@@ -88,6 +88,7 @@ Today I learned about Python collection data types. I practiced creating and usi
 ### Practice File
 
 - collections.py
+
 ## Day 4
 
 **Date:** 25 June 2026
@@ -96,12 +97,12 @@ Today I learned about Python collection data types. I practiced creating and usi
 
 ### Topics Covered
 
-* User-Defined Functions
-* Classes and Objects
-* `__init__()` Method
-* Single Inheritance
-* Multilevel Inheritance
-* `super()` Function
+- User-Defined Functions
+- Classes and Objects
+- `__init__()` Method
+- Single Inheritance
+- Multilevel Inheritance
+- `super()` Function
 
 ### What I Learned
 
@@ -109,10 +110,27 @@ Today's session introduced me to user-defined functions and the basics of object
 
 ### Practice Files
 
-* functions.py
-* oops.py
-
+- functions.py
+- oops.py
 
 ## Day 5
 
-(To be updated)
+**Date:** 26 June 2026
+
+**Subject:** Python Programming
+
+### Topics Covered
+
+- User-Defined Functions
+- Functions with Lists
+- Returning Lists from Functions
+- Built-in List Functions
+- List Comprehension
+
+### What I Learned
+
+Today I explored how functions can be used with lists by passing lists as arguments and returning modified lists. I also practiced using built-in functions like `max()`, `min()`, `sorted()`, and `set()` inside user-defined functions. Finally, I learned list comprehension as a shorter and more efficient way to create new lists.
+
+### Practice File
+
+- functions.py
