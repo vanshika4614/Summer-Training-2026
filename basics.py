@@ -1,107 +1,52 @@
-# ============================================
 # Day 1 - Python Basics
-# Summer Training 2026
-# Name: Vanshika Sharma
-# Date: 22 June 2026
-# ============================================
 
-
-# -------------------------------
-# 1. Introduction to Python
-# -------------------------------
-
+# Print Statement
 print("Hello, Python!")
-print("Welcome to Summer Training 2026")
+print("Welcome to Summer Training")
 
-
-# -------------------------------
-# 2. Python Syntax
-# Python uses indentation instead of braces.
-# -------------------------------
-
-if 10 > 5:
-    print("10 is greater than 5")
-
-
-# -------------------------------
-# 3. Print Statement
-# -------------------------------
-
-print("My name is Vanshika Sharma")
-print("I am learning Python.")
-
-
-# -------------------------------
-# 4. Variables
-# -------------------------------
-
+# Variables
 name = "Vanshika"
+college = "GNDEC"
 age = 20
-college = "Guru Nanak Dev Engineering College"
 
-print(name)
-print(age)
-print(college)
+print("Name:", name)
+print("College:", college)
+print("Age:", age)
 
-
-# -------------------------------
-# 5. Data Types
-# -------------------------------
-
-integer_number = 100
-decimal_number = 25.5
+# Data Types
+number = 100
+decimal = 12.5
 text = "Python"
 status = True
 
-print(type(integer_number))
-print(type(decimal_number))
+print(type(number))
+print(type(decimal))
 print(type(text))
 print(type(status))
 
+# Type Casting
+marks = "95"
+marks = int(marks)
+print(marks)
+print(type(marks))
 
-# -------------------------------
-# 6. Type Casting
-# -------------------------------
-
-num = "50"
-
-converted_num = int(num)
-
-print(converted_num)
-print(type(converted_num))
-
-
-# -------------------------------
-# 7. Input Function
-# -------------------------------
-
+# User Input
 city = input("Enter your city: ")
-
 print("City:", city)
 
-
-# -------------------------------
-# 8. Swapping Variables
-# -------------------------------
-
+# Swapping Variables
 a = 10
 b = 20
 
 print("Before Swapping")
-print("a =", a)
-print("b =", b)
+print(a, b)
 
 a, b = b, a
 
 print("After Swapping")
-print("a =", a)
-print("b =", b)
+print(a, b)
 
-
-# -------------------------------
-# 9. Variable Unpacking
-# -------------------------------
-
+# Variable Unpacking
 fruit1, fruit2, fruit3 = ["Apple", "Banana", "Mango"]
 
 print(fruit1)

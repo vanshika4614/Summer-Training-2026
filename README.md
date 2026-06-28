@@ -20,35 +20,25 @@
 
 **Subject:** Python Programming
 
-**Topics Covered**
+### Topics Covered
 
-- Introduction to Python
-- Python Syntax
-- Print Statement
-- Variables
-- Data Types
-- Type Casting
-- Input Function
-- Swapping Variables
-- Variable Unpacking
+* Introduction to Python
+* Python Syntax
+* Print Statement
+* Variables
+* Data Types
+* Type Casting
+* Input Function
+* Swapping Variables
+* Variable Unpacking
 
-**What I Learned**
+### Practice File
 
-Today I learned the basics of Python programming. I understood how Python programs are written, how variables store data, different data types, type casting, and taking input from the user. I also practiced swapping variables and variable unpacking.
+* basics.py
 
-**Programs Practiced**
+### What I Learned
 
-- Print statement
-- Variables
-- Data types
-- Type casting
-- User input
-- Swapping variables
-- Variable unpacking
-
-**Files Added**
-
-python_basics.py
+Today I was introduced to Python and learned its basic syntax. I practiced using print statements, variables, different data types, type casting, taking input from the user, swapping variables, and variable unpacking through simple programs.
 
 
 ---
