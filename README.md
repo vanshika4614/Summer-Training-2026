@@ -48,7 +48,7 @@ Today I learned the basics of Python programming. I understood how Python progra
 
 **Files Added**
 
-* `Day01/practice.py`
+python_basics.py
 
 
 ---
