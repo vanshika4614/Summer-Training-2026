@@ -22,26 +22,26 @@
 
 ### Topics Covered
 
-* Introduction to Python
-* Python Syntax
-* Print Statement
-* Variables
-* Data Types
-* Type Casting
-* Input Function
-* Swapping Variables
-* Variable Unpacking
+- Introduction to Python
+- Python Syntax
+- Print Statement
+- Variables
+- Data Types
+- Type Casting
+- Input Function
+- Swapping Variables
+- Variable Unpacking
 
 ### Practice File
 
-* basics.py
+- basics.py
 
 ### What I Learned
 
 Today I was introduced to Python and learned its basic syntax. I practiced using print statements, variables, different data types, type casting, taking input from the user, swapping variables, and variable unpacking through simple programs.
 
-
 ---
+
 ## Day 2
 
 **Date:** 23 June 2026
@@ -50,13 +50,13 @@ Today I was introduced to Python and learned its basic syntax. I practiced using
 
 ### Topics Covered
 
-* Arithmetic Operators
-* Assignment Operators
-* Comparison Operators
-* Logical Operators
-* Identity Operators
-* Membership Operators
-* Bitwise Operators
+- Arithmetic Operators
+- Assignment Operators
+- Comparison Operators
+- Logical Operators
+- Identity Operators
+- Membership Operators
+- Bitwise Operators
 
 ### What I Learned
 
@@ -64,15 +64,30 @@ In today's class, I learned different types of operators available in Python and
 
 ### Practice File
 
-* operators.py
+- operators.py
 
 ---
 
 ## Day 3
 
-(To be updated)
+**Date:** 24 June 2026
 
----
+**Subject:** Python Programming
+
+### Topics Covered
+
+- Lists
+- Tuples
+- Sets
+- Dictionary
+
+### What I Learned
+
+Today I learned about Python collection data types. I practiced creating and using lists, tuples, sets, and dictionaries. I also learned some common operations like adding, removing, accessing, and updating data in these collections.
+
+### Practice File
+
+- collections.py
 
 ## Day 4
 

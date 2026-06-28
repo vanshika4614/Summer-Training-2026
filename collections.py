@@ -1,49 +1,40 @@
-# ============================================
 # Day 3 - Python Collections
-# Summer Training 2026
-# ============================================
 
+# List
 
-# Lists
+students = ["Aman", "Vanshika", "Rahul"]
 
-fruits = ["Apple", "Banana", "Mango"]
+print(students)
+print(students[1])
 
-print(fruits)
-print(fruits[1])
+students.append("Priya")
+print(students)
 
-fruits.append("Orange")
-print(fruits)
+students.remove("Rahul")
+print(students)
 
-fruits.remove("Banana")
-print(fruits)
+print()
 
-fruits.sort()
-print(fruits)
+# Tuple
 
-print(len(fruits))
+months = ("January", "February", "March")
 
+print(months)
+print(months[0])
+print(len(months))
 
-# Tuples
+print()
 
-colors = ("Red", "Green", "Blue")
+# Set
+
+colors = {"Red", "Blue", "Green"}
+
+colors.add("Yellow")
+colors.remove("Blue")
 
 print(colors)
-print(colors[0])
-print(len(colors))
 
-
-# Sets
-
-numbers = {10, 20, 30, 40}
-
-print(numbers)
-
-numbers.add(50)
-print(numbers)
-
-numbers.remove(20)
-print(numbers)
-
+print()
 
 # Dictionary
 
@@ -57,7 +48,7 @@ print(student)
 
 print(student["Name"])
 
-student["College"] = "GNDEC"
+student["City"] = "Ludhiana"
 
 print(student)
 
@@ -66,5 +57,4 @@ student.pop("Age")
 print(student)
 
 print(student.keys())
-
 print(student.values())
