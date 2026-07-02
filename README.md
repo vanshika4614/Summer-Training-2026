@@ -134,3 +134,29 @@ Today I explored how functions can be used with lists by passing lists as argume
 ### Practice File
 
 - functions.py
+
+## Day 6
+
+**Date:** 27 June 2026
+
+**Subject:** Python Programming
+
+### Topics Covered
+
+- Function Practice
+- Palindrome
+- Fibonacci Series
+- Largest and Second Largest Number
+- Factorial (Without Recursion)
+- Vowel, Consonant, Digit and Special Character Check
+- Sum of Elements in a List
+- Count Occurrence of an Element
+- Recursion (Sum of N Natural Numbers)
+
+### What I Learned
+
+Today's class focused on solving programming problems using user-defined functions. I practiced writing functions for palindrome checking, generating the Fibonacci series, finding the largest and second largest numbers in a list, calculating factorials, checking character types, working with list operations, and using recursion to find the sum of natural numbers.
+
+### Practice File
+
+- functions.py
