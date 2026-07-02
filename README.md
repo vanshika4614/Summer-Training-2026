@@ -160,3 +160,25 @@ Today's class focused on solving programming problems using user-defined functio
 ### Practice File
 
 - functions.py
+
+## Day 7
+
+**Date:** 28 June 2026
+
+**Subject:** Python Programming
+
+### Topics Covered
+
+- Random Module
+- Generating Random Numbers
+- Random Choice
+- Shuffling a List
+- Stone-Paper-Scissors Game
+
+### What I Learned
+
+Today I learned about Python's `random` module and how it is used to generate random values. I practiced functions like `randint()`, `random()`, `choice()`, and `shuffle()`. I also created a simple Stone-Paper-Scissors game where the computer's move is selected randomly and compared with the user's input.
+
+### Practice File
+
+- random_module.py
