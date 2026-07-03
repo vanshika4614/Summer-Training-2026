@@ -182,3 +182,45 @@ Today I learned about Python's `random` module and how it is used to generate ra
 ### Practice File
 
 - random_module.py
+
+## Day 8
+
+**Date:** 29 June 2026
+
+**Subject:** Python Programming (NumPy)
+
+### Topics Covered
+
+- Introduction to NumPy
+- Creating Arrays
+- `arange()`
+- `zeros()`
+- `reshape()`
+- Matrix Operations
+- Diagonal Elements
+- Array Slicing
+- Identity Matrix
+- Random Number Generation
+- Mathematical Functions (`sqrt()`, `std()`)
+
+### What I Learned
+
+Today I was introduced to the NumPy library and learned how it simplifies working with arrays and matrices. I practiced creating one-dimensional and two-dimensional arrays, reshaping arrays, extracting diagonal elements, generating identity matrices, creating random numbers, and performing mathematical operations like finding the square root and standard deviation of array elements. I also learned how NumPy performs element-wise arithmetic operations efficiently.
+
+### Programs Practiced
+
+- Created an array containing numbers from 1 to 20
+- Generated a 3×3 zero matrix
+- Created a 5×5 matrix and extracted its diagonal
+- Generated even numbers between 10 and 30
+- Reshaped a 1D array into a 3×4 matrix
+- Found maximum, minimum, and mean values
+- Performed element-wise addition, subtraction, and multiplication
+- Extracted the second row from a 2D array
+- Created a 4×4 identity matrix
+- Generated random integers using NumPy
+- Calculated square root and standard deviation of array elements
+
+### Practice File
+
+- numpyy.py
