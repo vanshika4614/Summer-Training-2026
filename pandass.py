@@ -130,3 +130,140 @@ print()
 # csv_data = pd.read_csv("students.csv")
 # print(csv_data)
 
+# ---------------------------------
+# Day 11 - Pandas Practice Questions
+# ---------------------------------
+
+import pandas as pd
+import numpy as np
+
+# Create a Series with custom index
+
+series = pd.Series([10, 20, 30, 40], index=["A", "B", "C", "D"])
+print(series)
+
+print()
+
+
+# Create a DataFrame
+
+students = {
+    "Name": ["Aman", "Vanshika", "Rahul", "Priya", "Simran"],
+    "Age": [20, 21, 22, 20, 23],
+    "Marks": [85, 91, 78, 88, 95]
+}
+
+df = pd.DataFrame(students)
+
+print(df)
+
+print()
+
+
+# Read CSV File
+
+# csv_data = pd.read_csv("data.csv")
+# print(csv_data)
+
+
+# Select Age column
+
+print(df["Age"])
+
+print()
+
+
+# First three rows
+
+print(df.head(3))
+
+print()
+
+
+# Add Grade column
+
+df["Grade"] = ["B", "A", "C", "B", "A"]
+
+print(df)
+
+print()
+
+
+# Delete Marks column
+
+new_df = df.drop("Marks", axis=1)
+
+print(new_df)
+
+print()
+
+
+# Filter rows
+
+print(df[df["Age"] > 20])
+
+print()
+
+
+# Group By
+
+group = pd.DataFrame({
+    "Class": ["A", "A", "B", "B"],
+    "Marks": [80, 90, 70, 85]
+})
+
+print(group.groupby("Class")["Marks"].mean())
+
+print()
+
+
+# Merge DataFrames
+
+df1 = pd.DataFrame({
+    "Student_ID": [1, 2, 3],
+    "Name": ["Aman", "Rahul", "Vanshika"]
+})
+
+df2 = pd.DataFrame({
+    "Student_ID": [1, 2, 3],
+    "Marks": [80, 75, 95]
+})
+
+print(pd.merge(df1, df2, on="Student_ID"))
+
+print()
+
+
+# Replace Missing Values
+
+data = pd.DataFrame({
+    "Marks": [80, np.nan, 90, np.nan]
+})
+
+data["Marks"] = data["Marks"].fillna(data["Marks"].mean())
+
+print(data)
+
+print()
+
+
+# Sort Data
+
+sorted_df = df.sort_values(
+    by=["Age", "Marks"],
+    ascending=[True, False]
+)
+
+print(sorted_df)
+
+print()
+
+
+# Apply Custom Function
+
+def double_marks(mark):
+    return mark * 2
+
+df["Double Marks"] = df["Marks"].apply(double_marks)
+
+print(df)

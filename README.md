@@ -280,3 +280,32 @@ Today I learned the basics of the Pandas library. I practiced creating Series an
 
 - pandass.py
 
+## Day 11
+
+**Date:** 2 July 2026
+
+**Subject:** Python Programming (Pandas Practice)
+
+### Topics Covered
+
+- Pandas Series
+- DataFrame Creation
+- Reading CSV Files
+- Selecting Columns
+- Retrieving Rows
+- Adding and Deleting Columns
+- Conditional Filtering
+- Grouping Data
+- Merging DataFrames
+- Handling Missing Values
+- Sorting Data
+- Applying Custom Functions
+
+### What I Learned
+
+Today I practiced solving different problems using the Pandas library. I learned how to work with Series and DataFrames, perform filtering and grouping operations, merge datasets, handle missing values, sort records, and apply custom functions to DataFrame columns.
+
+### Practice File
+
+- pandass.py
+
