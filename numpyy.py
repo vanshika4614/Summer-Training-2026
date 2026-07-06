@@ -81,3 +81,105 @@ print(np.sqrt(arr))
 
 print("Standard Deviation:")
 print(np.std(arr))
+
+
+# -------------------------------
+# Day 9 - More NumPy Practice
+# -------------------------------
+
+import numpy as np
+
+# Creating Arrays
+
+arr = np.array([10, 20, 30, 40, 50])
+
+print("Array:")
+print(arr)
+
+print()
+
+
+# Reshaping Array
+
+numbers = np.arange(1, 13)
+
+matrix = numbers.reshape(3, 4)
+
+print("Reshaped Array:")
+print(matrix)
+
+print()
+
+
+# Indexing
+
+print("First Element:", arr[0])
+print("Last Element:", arr[-1])
+
+print()
+
+
+# Sorting Array
+
+values = np.array([12, 5, 8, 20, 3])
+
+print("Before Sorting:")
+print(values)
+
+print("After Sorting:")
+print(np.sort(values))
+
+print()
+
+
+# Slicing
+
+print("Array Slice:")
+print(arr[1:4])
+
+print()
+
+
+# Copying Array
+
+copy_array = arr.copy()
+
+copy_array[0] = 100
+
+print("Original Array:")
+print(arr)
+
+print("Copied Array:")
+print(copy_array)
+
+print()
+
+
+# Broadcasting
+
+array = np.array([1, 2, 3, 4])
+
+print("Broadcasting (+5):")
+print(array + 5)
+
+print()
+
+
+# Conditional Statements
+
+numbers = np.array([15, 8, 22, 4, 30])
+
+print("Numbers Greater Than 10:")
+print(numbers[numbers > 10])
+
+print()
+
+
+# Aggregate Functions
+
+marks = np.array([70, 85, 90, 78, 88])
+
+print("Sum:", np.sum(marks))
+print("Mean:", np.mean(marks))
+print("Maximum:", np.max(marks))
+print("Minimum:", np.min(marks))

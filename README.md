@@ -224,3 +224,59 @@ Today I was introduced to the NumPy library and learned how it simplifies workin
 ### Practice File
 
 - numpyy.py
+
+## Day 9
+
+**Date:** 30 June 2026
+
+**Subject:** Python Programming (NumPy)
+
+### Topics Covered
+
+- Creating Arrays
+- Reshaping Arrays
+- Indexing
+- Sorting Arrays
+- Array Slicing
+- Copying Arrays
+- Broadcasting
+- Conditional Statements
+- Aggregate Functions
+
+### What I Learned
+
+Today I continued learning NumPy by practicing array manipulation techniques. I learned how to reshape arrays, access elements using indexing, sort arrays, perform slicing and copying, apply broadcasting, filter data using conditions, and use aggregate functions such as sum, mean, maximum, and minimum.
+
+### Practice File
+
+- numpyy.py
+
+## Day 10
+
+**Date:** 1 July 2026
+
+**Subject:** Python Programming (Pandas)
+
+### Topics Covered
+
+- Series
+- DataFrame
+- Grabbing Columns
+- Grabbing Rows
+- Adding New Column
+- Deleting Column
+- Conditional Selection
+- Setting an Index
+- Missing Values
+- Grouping
+- Custom Functions
+- Reading External CSV Files
+
+### What I Learned
+
+Today I learned the basics of the Pandas library. I practiced creating Series and DataFrames, selecting rows and columns, adding and deleting columns, filtering data using conditions, setting indexes, handling missing values, grouping records, applying custom functions, and reading data from external CSV files.
+
+### Practice File
+
+- pandass.py
+
