@@ -309,3 +309,28 @@ Today I practiced solving different problems using the Pandas library. I learned
 
 - pandass.py
 
+## Day 12
+
+**Date:** 3 July 2026
+
+**Subject:** Python Programming (Practice Test)
+
+### Topics Covered
+
+- Loops
+- Functions
+- Conditional Statements
+- Palindrome
+- Factorial
+- Multiplication Table
+- User Input
+- Classes and Objects
+
+### What I Learned
+
+Today's session was a practice test covering Python concepts learned during the previous days. I solved questions on loops, functions, conditions, user input, recursion, and object-oriented programming, which helped reinforce my understanding of Python fundamentals.
+
+### Practice File
+
+- py_test.py
+
