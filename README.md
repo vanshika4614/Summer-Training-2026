@@ -137,7 +137,7 @@ Today I explored how functions can be used with lists by passing lists as argume
 
 ## Day 6
 
-**Date:** 27 June 2026
+**Date:** 29 June 2026
 
 **Subject:** Python Programming
 
@@ -163,7 +163,7 @@ Today's class focused on solving programming problems using user-defined functio
 
 ## Day 7
 
-**Date:** 28 June 2026
+**Date:** 30 June 2026
 
 **Subject:** Python Programming
 
@@ -185,7 +185,7 @@ Today I learned about Python's `random` module and how it is used to generate ra
 
 ## Day 8
 
-**Date:** 29 June 2026
+**Date:** 1 July 2026
 
 **Subject:** Python Programming (NumPy)
 
@@ -227,7 +227,7 @@ Today I was introduced to the NumPy library and learned how it simplifies workin
 
 ## Day 9
 
-**Date:** 30 June 2026
+**Date:** 2 July 2026
 
 **Subject:** Python Programming (NumPy)
 
@@ -253,7 +253,7 @@ Today I continued learning NumPy by practicing array manipulation techniques. I 
 
 ## Day 10
 
-**Date:** 1 July 2026
+**Date:** 3 July 2026
 
 **Subject:** Python Programming (Pandas)
 
@@ -282,7 +282,7 @@ Today I learned the basics of the Pandas library. I practiced creating Series an
 
 ## Day 11
 
-**Date:** 2 July 2026
+**Date:** 4 July 2026
 
 **Subject:** Python Programming (Pandas Practice)
 
@@ -311,7 +311,7 @@ Today I practiced solving different problems using the Pandas library. I learned
 
 ## Day 12
 
-**Date:** 3 July 2026
+**Date:** 6 July 2026
 
 **Subject:** Python Programming (Practice Test)
 
@@ -333,4 +333,3 @@ Today's session was a practice test covering Python concepts learned during the 
 ### Practice File
 
 - py_test.py
-
