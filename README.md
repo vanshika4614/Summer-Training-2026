@@ -333,3 +333,100 @@ Today's session was a practice test covering Python concepts learned during the 
 ### Practice File
 
 - py_test.py
+
+## Day 13
+
+Date: 7 July 2026
+
+Subject: Data Visualization using Matplotlib
+
+## Topics Covered
+
+- Introduction to Matplotlib
+- Creating Line Plots
+- Bar Charts
+- Pie Charts
+- Histograms
+- Labels and Titles
+- Grid and Legends
+- Plot Customization
+
+## What I Learned
+
+Today I was introduced to Matplotlib, a Python library used for data visualization. I learned how to create different types of charts such as line plots, bar charts, pie charts, and histograms. I also practiced adding titles, axis labels, legends, and grids to make graphs more informative and visually appealing.
+
+## Practice File
+
+practice.ipynb
+
+## Day 14
+
+Date: 8 July 2026
+
+Subject: Matplotlib Practice Test
+
+## Topics Covered
+
+- Data Visualization Practice
+- Plot Creation
+- Chart Customization
+- Graph Interpretation
+
+## What I Learned
+
+Today's session focused on assessing our understanding of Matplotlib. I solved practical questions related to chart creation and visualization techniques. This helped me strengthen my understanding of plotting data and presenting information visually.
+
+## Practice File
+
+practice.ipynb
+
+## Day 15
+
+Date: 9 July 2026
+
+Subject: Python Libraries Revision and Streamlit Introduction
+
+## Topics Covered
+
+- NumPy Revision
+- Pandas Revision
+- Matplotlib Revision
+- Practice Questions
+- Introduction to Streamlit
+  -- Creating Interactive Web Applications
+- Streamlit Components and Widgets
+
+## What I Learned
+
+Today we revised the Python libraries covered during the training, including NumPy, Pandas, and Matplotlib. We also received an introduction to Streamlit, a framework used to create interactive web applications using Python. I learned how Streamlit can convert Python scripts into simple web applications with minimal code.
+
+## Practice Files
+
+practice.ipynb
+streamlit_prac.py
+
+## Day 16
+
+Date: 10 July 2026
+
+Subject: Introduction to Power BI
+
+## Topics Covered
+
+- Introduction to Power BI
+- Power BI Interface
+- Importing Data
+- Data Transformation Basics
+- Creating Visualizations
+- Dashboard Creation
+- Reports and Interactive Visuals
+
+## What I Learned
+
+Today I was introduced to Power BI, a business intelligence and data visualization tool. I learned about its interface, how to import datasets, and how to create basic visualizations. I also created my first dashboard and understood how Power BI can be used to analyze and present data effectively through interactive reports.
+
+Activities Performed
+Explored the Power BI workspace
+Imported sample data
+Created basic charts and visuals
+Built my first dashboard
