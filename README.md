@@ -430,3 +430,89 @@ Explored the Power BI workspace
 Imported sample data
 Created basic charts and visuals
 Built my first dashboard
+
+## Day 17
+
+**Date:** 11 July 2026
+
+**Subject:** Power BI
+
+### Topics Covered
+
+- Introduction to Power BI Desktop
+- Power Query Editor
+- Importing Data
+- Data Cleaning and Transformation
+- Loading Data into Power BI
+
+### What I Learned
+
+Today I learned the basics of Power BI Desktop and explored the Power Query Editor. I understood how to import datasets from different sources and perform data cleaning and transformation before creating reports. I also learned how Power Query helps prepare raw data for analysis.
+
+### Practice
+
+- Imported sample datasets
+- Explored Power Query Editor
+- Applied basic data transformations
+- Loaded transformed data into Power BI
+
+---
+
+## Day 18
+
+**Date:** 13 July 2026
+
+**Subject:** Power BI
+
+### Topics Covered
+
+- Power BI Visualizations
+- Filters and Slicers
+- Report Canvas
+- Connecting to Different Data Sources
+- Importing CSV Files
+- Importing XML Files
+- Connecting to SQL Server
+- Formatting Visuals
+
+### What I Learned
+
+Today's session focused on understanding the different elements available in Power BI for building interactive dashboards. I learned how to connect Power BI with multiple data sources such as CSV files, XML files, and SQL Server databases. I also explored filters, slicers, and formatting options to make dashboards more interactive and user-friendly.
+
+### Practice
+
+- Connected Power BI to CSV files
+- Connected Power BI to XML files
+- Connected to SQL Server
+- Applied filters and slicers
+- Customized charts and visuals
+
+---
+
+## Day 19
+
+**Date:** 14 July 2026
+
+**Subject:** Power BI
+
+### Topics Covered
+
+- Dashboard Design
+- Interactive Reports
+- Cards
+- Charts
+- Tables
+- KPIs
+- Formatting Visuals
+
+### What I Learned
+
+Today I created my first complete Power BI dashboard using the concepts learned over the past few sessions. I added different visualizations, arranged them on the report canvas, and applied formatting to make the dashboard clear and interactive. This session helped me understand how multiple visuals can work together to present meaningful insights from data.
+
+### Practice
+
+- Created my first Power BI dashboard
+- Added multiple charts and visuals
+- Used cards and tables
+- Applied formatting and alignment
+- Built an interactive report
