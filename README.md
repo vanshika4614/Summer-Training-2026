@@ -515,4 +515,64 @@ Today I created my first complete Power BI dashboard using the concepts learned 
 - Added multiple charts and visuals
 - Used cards and tables
 - Applied formatting and alignment
-- Built an interactive report
+- Built an interactive report.
+
+## Day 20
+
+**Date:** 15 July 2026
+
+**Subject:** Power BI
+
+### Topics Covered
+
+- Dashboard Design
+- Data Visualization
+- Charts and Graphs
+- Cards and KPIs
+- Filters and Slicers
+- Report Formatting
+
+### What I Learned
+
+Today I worked on creating another Power BI dashboard to improve my understanding of data visualization. I practiced selecting appropriate visuals, applying filters and slicers, formatting reports, and organizing dashboard components to make the report more interactive and easier to understand.
+
+### Practice
+
+- Created a new Power BI dashboard
+- Added different visualizations
+- Applied filters and slicers
+- Formatted the dashboard for better readability
+- Improved report layout and presentation
+
+---
+
+## Day 21
+
+**Date:** 16 July 2026
+
+**Subject:** SQL
+
+### Topics Covered
+
+- Introduction to SQL
+- Database Concepts
+- Creating Databases
+- Creating Tables
+- Inserting Records
+- Retrieving Data
+- Basic SQL Commands
+
+### What I Learned
+
+Today we started learning SQL. I installed SQL on my system and became familiar with its interface. I learned the purpose of databases and tables and practiced basic SQL commands for creating databases, creating tables, inserting records, and retrieving data. This session provided a good foundation for working with relational databases.
+
+### Commands Practiced
+
+- `CREATE DATABASE`
+- `USE`
+- `CREATE TABLE`
+- `INSERT INTO`
+- `SELECT`
+- `SHOW DATABASES`
+- `SHOW TABLES`
+- `DESC`
