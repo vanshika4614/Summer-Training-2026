@@ -576,3 +576,121 @@ Today we started learning SQL. I installed SQL on my system and became familiar 
 - `SHOW DATABASES`
 - `SHOW TABLES`
 - `DESC`
+
+## Day 22
+
+**Date:** 17/07/2026
+
+### Subject
+
+SQL & Project Discussion
+
+### Topics Covered
+
+- SQL Practice
+- Project Discussion
+- Power BI Dashboard Planning
+
+### What I Learned
+
+Today we continued practicing SQL queries and discussed our data analysis project. We finalized the project idea, discussed the dashboard layout, identified important KPIs, and planned the visualizations that would be included in the Power BI dashboard.
+
+---
+
+## Day 23
+
+**Date:** 18/07/2026
+
+### Subject
+
+SQL & Power BI
+
+### Topics Covered
+
+- SQL Query Practice
+- Data Preparation
+- Dashboard Design
+
+### What I Learned
+
+Today we continued practicing SQL queries and prepared the dataset for visualization. We also started designing the Power BI dashboard by selecting suitable charts, cards, slicers, and filters.
+
+---
+
+## Day 24
+
+**Date:** 20/07/2026
+
+### Subject
+
+SQL & Power BI
+
+### Topics Covered
+
+- Dashboard Development
+- Data Cleaning
+- Creating Visuals
+
+### What I Learned
+
+Today we worked on building the Power BI dashboard. We cleaned the dataset wherever required and created different visualizations to represent the data in a meaningful way.
+
+---
+
+## Day 25
+
+**Date:** 21/07/2026
+
+### Subject
+
+SQL & Power BI
+
+### Topics Covered
+
+- Dashboard Formatting
+- Slicers and Filters
+- Report Improvement
+
+### What I Learned
+
+Today we improved the dashboard by formatting visuals, adding slicers and filters, and organizing the report to make it more interactive and user-friendly.
+
+---
+
+## Day 26
+
+**Date:** 22/07/2026
+
+### Subject
+
+SQL & Project Work
+
+### Topics Covered
+
+- SQL Revision
+- Dashboard Review
+- Project Improvement
+
+### What I Learned
+
+Today we revised important SQL concepts and continued improving the Power BI dashboard. We reviewed the report, corrected minor issues, and refined the visuals for better presentation.
+
+---
+
+## Day 27
+
+**Date:** 23/07/2026
+
+### Subject
+
+SQL & Project Completion
+
+### Topics Covered
+
+- Final SQL Practice
+- Dashboard Review
+- Project Discussion
+
+### What I Learned
+
+Today we completed the remaining SQL practice and reviewed our Power BI dashboard. We discussed the final project, checked the dashboard visuals, and made the necessary improvements before completing the project.
